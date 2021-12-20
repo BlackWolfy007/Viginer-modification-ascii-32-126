@@ -61,7 +61,7 @@ public class Program
     static void Main(string[] args)
     {
 
-        //Комментарий
+        //Комментарий main master
         string message = "Hello world!", key = /*"a7@*2b"*/ "!";
         Viginer_95 Encrypt = new Viginer_95();
         Encrypt.Set_Message(message);
